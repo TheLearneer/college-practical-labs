@@ -1,7 +1,11 @@
 /*
  * Copyright (C) 2018 Santosh Bhandari
  * Date Written: June 16, 2018
+ * Date Modified: June 27, 2018
+ * NOTE:
+ * This program uses custom implementation of statck and few other things, its done to learn how they work in actual and nothing else.
  */
+ 
 #include <iostream>
 #include <string.h>
 
