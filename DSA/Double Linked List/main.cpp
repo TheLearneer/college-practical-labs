@@ -2,6 +2,7 @@
  * Copyright (C) 2018 Santosh Bhandari
  * Date Written: July 4, 2018
  */
+
 #include <iostream>
 
 using namespace std;
