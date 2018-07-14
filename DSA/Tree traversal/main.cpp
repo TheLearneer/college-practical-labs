@@ -22,7 +22,7 @@ private:
     bool starting;
 
 public:
-    BST() {root=NULL;starting=true;}
+    TreeParser() {root=NULL;starting=true;}
 
     Node* rootNode() {
         return root;
